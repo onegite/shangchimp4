@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = '@123Movies] HD-720p! Shang-Chi and the Legend of the Ten Rings Watch Online (2021) Movies Full Free Download'
+copyright = '2021, Shang-Chi'
+author = 'Shang-Chi'
 
 release = '0.1'
 version = '0.1.0'
