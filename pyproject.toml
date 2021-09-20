@@ -3,6 +3,6 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "lumache"
-authors = [{name = "Graziella", email = "graziella@lumache"}]
+name = "@123Movies] HD-720p! Shang-Chi and the Legend of the Ten Rings Watch Online (2021) Movies Full Free Download"
+authors = [{name = "Shang-Chi", email = "Official@Shangchi"}]
 dynamic = ["version", "description"]
